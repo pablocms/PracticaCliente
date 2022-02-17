@@ -1,0 +1,235 @@
+{
+  "main": {
+    "name": "Pablo Callejo",
+    "occupation": "",
+    "description": "Hola mi nombre es Pablo Callejo, soy Desarrollador de Aplicaciones Web y esta es mi página en la que podrás obtener información sobre mi y mis proyectos",
+    "image": "fondo.jpg",
+    "bio": "Soy un joven programador con ganas de seguir aprendiendo y de conseguir experiencia profesional en este sector",
+    "contactmessage": "En este apartado puedes escribirme un mensaje para contactar conmigo por cualquier razón profesional",
+    "email": "pablocallejomillan@gmail.com",
+    "phone": "646557811",
+    "address": {
+      "street": "San Lorenzo de El Escorial",
+      "city": "Madrid",
+      "state": "España",
+      "zip": "28200"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Aquí teneis porcentajes en barra de mis skills como programador",
+    "education": [
+      {
+        "school": "Instituto San Juan de la Cruz",
+        "degree": "Grado de Desarrollo de Aplicaciones Web",
+        "graduated": "Junio 2022",
+        "description": "He adquirido conocimienntos de diseño, programación y gestión de base de datos"
+            
+      },
+      {
+        "school": "Instituo Juan de Herrera",
+        "degree": "Bachillerato",
+        "graduated": "Junio 2017",
+        "description": "He adquirido Bachillerato Tecnológico con conocimientos de Fisica, Química y Diseño Técnico "
+      }
+    ],
+    "work": [
+      {
+        "company": "Bar Familiar",
+        "title": "Camarero",
+        "years": "Julio 2017- Actualidad",
+        "description": "He trabajado en un bar familiar desde 2017 hasta ahora los fines de semana y en verano todos los días"
+      },
+      {
+        "company": "Nattia",
+        "title": "Practicas DAW",
+        "years": "Marzo 2022-Junio 2022",
+        "description": "Ahi realicé las prácticas del grado superior de Diseño de Aplicaciones Web"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cambio de fondo",
+        "category": "Cada vez que lo abres es un fondo distinto",
+        "image": "fondo.png",
+        "url": "",
+        "demo": "./trabajos/fondo.html"
+      },
+      {
+        "title": "Adivina número",
+        "category": "Programa de adivinar número",
+        "image": "adivina_numero.png",
+        "url": "",
+        "demo": "./trabajos/adivina_numero.html"
+      },
+      {
+        "title": "Aumento",
+        "category": "Aumenta el tamaño de una figura",
+        "image": "aumento.png",
+        "url": "",
+        "demo": "./trabajos/aumento.html"
+      },
+      {
+        "title": "Cara o Cruz",
+        "category": "Programa de cara o cruz",
+        "image": "cara_cruz.png",
+        "url": "",
+        "demo": "./trabajos/CaraCruz_Promesas.html"
+      },
+      {
+        "title": "Loteria",
+        "category": "Combinaciones de la loteria",
+        "image": "loteria.png",
+        "url": "",
+        "demo": "./trabajos/loteria.html"
+      },
+      {
+        "title": "Discoteca",
+        "category": "Mensaje de admisión a discoteca",
+        "image": "discoteca.png",
+        "url": "",
+        "demo": "./trabajos/Discoteca.html"
+      },
+      {
+        "title": "Programación de objetos",
+        "category": "",
+        "image": "programacion_objetos.png",
+        "url": "",
+        "demo": "./trabajos/programacion_objetos.html"
+      },
+      {
+        "title": "Programación de objetos 2",
+        "category": "",
+        "image": "programacion_objetos2.png",
+        "url": "",
+        "demo": "./trabajos/programacion_objetos2.html"
+      },
+      {
+        "title": "Registro",
+        "category": "Registro normal de un sitio",
+        "image": "registro.png",
+        "url": "",
+        "demo": "./trabajos/registro.html"
+      },
+      {
+        "title": "Tiempo",
+        "category": "",
+        "image": "tiempo.png",
+        "url": "",
+        "demo": "./trabajos/tiempos.html"
+      },
+      {
+        "title": "Ejercicio8.1",
+        "category": "",
+        "image": "Ejercicio8.1.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.1/Ejercicio8.1.html"
+      },
+      {
+        "title": "Ejercicio8.2",
+        "category": "",
+        "image": "Ejercicio8.2.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.2.html"
+      },
+      {
+        "title": "Ejercicio8.3",
+        "category": "",
+        "image": "Ejercicio8.3.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.3/Ejercicio8.3.html"
+      },
+      {
+        "title": "Ejercicio8.4",
+        "category": "",
+        "image": "Ejercicio8.4.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.4.html"
+      },
+      {
+        "title": "Ejercicio8.5",
+        "category": "",
+        "image": "Ejercicio8.5.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.5/Ejercicio8.5.html"
+      },
+      {
+        "title": "Ejercicio8.6",
+        "category": "",
+        "image": "Ejercicio8.6.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.6/Ejercicio8.6.html"
+      },
+      {
+        "title": "Ejercicio8.7",
+        "category": "",
+        "image": "Ejercicio8.7.png",
+        "url": "",
+        "demo": "./trabajos/Ejercicio8.7/Ejercicio8.7.html"
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lo que cuenta no es mañana, sino hoy. Hoy estamos aquí, mañana tal vez, nos hayamos marchado",
+        "user": "Lope de Vega"
+      },
+      {
+        "text": "Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades",
+        "user": "Miguel de Cervantes"
+      }
+    ]
+  }
+}
